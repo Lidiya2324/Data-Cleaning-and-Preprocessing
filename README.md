@@ -1,4 +1,4 @@
-# Customer Personality Analysis – Data Cleaning
+# Task 1: Customer Personality Analysis – Data Cleaning
 
 ## Project Overview
 A brief description of the project and its objective.
